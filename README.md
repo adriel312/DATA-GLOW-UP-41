@@ -1,6 +1,10 @@
 # Data Glow Up 41
 
+<<<<<<< HEAD
 O Data Glow Up é um desafio de Análise de Dados, na edição 41 foram fornecidos dados da Agência Nacional de Aviação Civil ( ANAC ) , sobre os Voos Regulares Ativos ( VRA ). Meu objetivo é realizar uma análise descritiva da **pontualidade** e **performance** das companhias aéreas presentes na base de dados fornecida pela ANAC, buscando identificar **rotas problemáticas** e analisar **tendências sazonais de atrasos**.
+=======
+O Data Glow Up é um desafio de Análise de Dados, na edição 41 foram fornecidos dados da Agência Nacional de Aviação Civil ( ANAC ) , sobre os Voos Regulares Ativos ( VRA ). Meu objetivo é realizar uma análise descritiva da **pontualidade** e **performance** das companhias aéreas presentes na base de dados fornecidada pela ANAC, buscando identificar **rotas problemáticas** e analisar **tendências sazionais de atrasos**.
+>>>>>>> ad850ac2c1f2b82d4c261fd688cf5626a8323868
 
 
 # Arquivos
