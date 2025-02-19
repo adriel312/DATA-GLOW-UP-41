@@ -1,0 +1,11 @@
+# Ignorar um arquivo específico
+normalizar dados.txt
+
+# Ignorar todos os arquivos de uma pasta
+#logs/
+
+# Ignorar todos os arquivos .log
+*.txt
+
+# Ignorar todos os arquivos .csv dentro da pasta "data"
+#data/*.csv
