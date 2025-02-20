@@ -5,7 +5,7 @@ import pandas as pd
 BASE_DIR = "csv_downloads"
 
 # Nome das colunas que devem ser removidas
-colunas_para_remover = ["Empresa Aérea", "Modelo Equipamento", "Número de Assentos", "Descrição Aeroporto Origem", "Descrição Aeroporto Destino", "Referência", "Situação Partida", "Situação Chegada"]
+colunas_para_remover = ["Empresa Aérea", "Modelo Equipamento", "Número de Assentos", "Descrição Aeroporto Origem", "Descrição Aeroporto Destino", "Referência", "Situação Partida", "Situação Chegada", "Justificativa", "Empresa AÃ©rea", "NÃºmero de Assentos", "DescriÃ§Ã£o Aeroporto Origem", "DescriÃ§Ã£o Aeroporto Destino", "DescriÃ§Ã£o Aeroporto Destino", "ReferÃªncia"]
 
 # Percorre todas as pastas (anos)
 for ano in os.listdir(BASE_DIR):
